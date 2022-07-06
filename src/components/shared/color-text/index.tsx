@@ -1,5 +1,3 @@
-import { HTMLAttributes } from "react";
-
 interface Props {
   color?: string;
 }
